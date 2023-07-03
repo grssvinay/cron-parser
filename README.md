@@ -2,7 +2,7 @@
 ## Processing format
 
 	* * * * *
-	minute[0-59] - hour[0-23] - day[1-31] - month[1-12,JAN-DEC] - day of week[0-6, SUN-SAT]
+	minute[0-59] - hour[0-23] - day[1-31] - month[1-12, JAN-DEC] - day of week[0-6, SUN-SAT]
 
 
 - For month, **JAN-DEC** text is also accepted
